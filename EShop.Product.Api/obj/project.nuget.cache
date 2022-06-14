@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jpOFXm8XguA2RKgl4pKyHwSItfinKuZdVVByR5V8o8tEaN+9uIs6TpAZmgUGm93kET29FzhW/ykGapLdfmK0pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\F98737D\\source\\repos\\EShop\\EShop.Product.Api\\EShop.Product.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\F98737D\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
