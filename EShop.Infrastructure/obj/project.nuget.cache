@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lUBuy8llxTf4dX9ynbIZmrz3DppnUnQfwoM38FUhfKt/Ydmu91ksVE9mi4eY0R4YybwL+TQVadPmYQCNOVl8eg==",
+  "dgSpecHash": "SVasmDLK9kYWAWVb9Dn0KJwe+bIzcLt437r2NIeFdEvy7UmuDKlGD8MtVYTgsT7VcI1I70KtjSjVyy3a/+/fHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\F98737D\\source\\repos\\EShop\\EShop.Infrastructure\\EShop.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ashis\\source\\repos\\EShop\\EShop.Infrastructure\\EShop.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ashis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

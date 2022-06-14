@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RErsRnHgU637rEuicblX3Pjx9G0bNanFRrV5ZY2lyuRtS/Bae4xTY00zULgQwWUx/PLYl1c95j49XXunJtJmSw==",
+  "dgSpecHash": "ooOB1PDumfsHFvAqsnvOIaf6CeSbymRAas0fKunHXQSi0gEhYyDZS+9+7i9kIOa0UeukGqm2x75USPFKRKWS2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\F98737D\\source\\repos\\EShop\\EShop.Order.Api\\EShop.Order.Api.csproj",
+  "projectFilePath": "C:\\Users\\ashis\\source\\repos\\EShop\\EShop.Order.Api\\EShop.Order.Api.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\F98737D\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+    "C:\\Users\\ashis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }
